@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/raxlov/M-DIYH/refs/heads/main/Versions/%5B0.0.0.1%5D.lua"))()
+local Version = "0.0.0.2"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/raxlov/M-DIYH/refs/heads/main/Versions/%5B"..Version.."%5D.lua"))()
