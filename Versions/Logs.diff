@@ -1,0 +1,23 @@
+# [A] = Added                                                                                                                                                █
+# [R] = Removed                                                                                                                                              █
+# [U] = Updated                                                                                                                                              █
+# [B] = Broken                                                                                                                                               █
+                                                                                                                                                             █
+! =={ 14/04/2026 }==                                                                                                                                         █
+#                                                                                                                                                            █
+# [0.0.0.3]                                                                                                                                                  █
++ [U] Fixed a bug where the updater would overlap with the minimalizer.                                                                                      █
+#                                                                                                                                                            █
+# [0.0.0.2]                                                                                                                                                  █
++ [A] Added a minimalizer.                                                                                                                                   █
++ [A] Added a discord button.                                                                                                                                █
++ [A] Added a updater.                                                                                                                                       █
+- [B] After releasing this version i realized the minimalizer overlapped with the updater.                                                                   █
+#                                                                                                                                                            █
+# [0.0.0.1]                                                                                                                                                  █
++ [A] Added close button.                                                                                                                                    █
++ [A] Added script for all game.                                                                                                                             █
++ [A] Created the hub.                                                                                                                                       █
+#                                                                                                                                                            █
+! =={ 14/04/2026 }==                                                                                                                                         █
+                                                                                                                                                             █
